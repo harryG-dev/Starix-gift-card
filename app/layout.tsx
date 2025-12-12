@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   title: "Starix - Premium Crypto Gift Cards",
   description:
     "The most elegant way to gift cryptocurrency. Send premium digital gift cards that recipients can redeem in any cryptocurrency. Fixed USD value, any crypto — zero volatility risk.",
-  generator: "v0.app",
+   
   icons: {
     icon: "/starix-logo.jpg",
     shortcut: "/starix-logo.jpg",
